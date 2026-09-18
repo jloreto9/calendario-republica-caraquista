@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tigrin//Calendario Republica Caraquista//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario República Caraquista
+X-WR-CALDESC:Temporada LVBP 2026/2027 - Leones del Caracas
+BEGIN:VEVENT
+UID:d34b5d007662@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Águilas del Zulia
+LOCATION:Estadio Luis Aparicio El Grande\, Maracaibo\, Zulia
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:bc2ddff253e3@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Águilas del Zulia
+LOCATION:Estadio Luis Aparicio El Grande\, Maracaibo\, Zulia
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:ae73f056184a@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Bravos de Margarita
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:ed57fb3d8252@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Bravos de Margarita
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5abc5ca5d0@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Caribes de Anzoátegui
+LOCATION:Estadio Alfonso Chico Carrasquel\, Puerto La Cruz\, Anzoátegui
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:e915f0f1c9bb@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Caribes de Anzoátegui
+LOCATION:Estadio Alfonso Chico Carrasquel\, Puerto La Cruz\, Anzoátegui
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:d676b0fdb421@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tiburones de La Guaira
+LOCATION:Estadio Universitario\, Ciudad Universitaria de Caracas (UCV)\, entre Autopista Valle-Coche y Autopista Francisco Fajardo\, Caracas
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:c920ad25f885@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tigres de Aragua
+LOCATION:Estadio José Pérez Colmenares\, Calle Campo Elías\, Maracay\, Aragua
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:78e4cd0657da@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Navegantes del Magallanes
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:36c91aabc8a7@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Navegantes del Magallanes
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:b2dcd667d8e5@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tigres de Aragua
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9219c6bcda@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tiburones de La Guaira
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:ec82580701e5@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Bravos de Margarita
+LOCATION:Estadio Nueva Esparta\, Porlamar\, Isla de Margarita\, Nueva Esparta
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:08070df655ff@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Bravos de Margarita
+LOCATION:Estadio Nueva Esparta\, Porlamar\, Isla de Margarita\, Nueva Esparta
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:729b9be5fb7c@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Caribes de Anzoátegui
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:2ddfb30a743a@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Caribes de Anzoátegui
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb2536a48cb@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tiburones de La Guaira
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:3f45a2838d19@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tiburones de La Guaira
+LOCATION:Estadio Universitario\, Ciudad Universitaria de Caracas (UCV)\, entre Autopista Valle-Coche y Autopista Francisco Fajardo\, Caracas
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:26a57b42dc54@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Bravos de Margarita
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:32e8a14cfa1d@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Bravos de Margarita
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2ab3150e53@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tigres de Aragua
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:9e74af95d6f5@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tigres de Aragua
+LOCATION:Estadio José Pérez Colmenares\, Calle Campo Elías\, Maracay\, Aragua
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:fb0cdf9a86bc@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Cardenales de Lara
+LOCATION:Estadio Antonio Herrera Gutiérrez\, Sector Juan de Villegas\, Barquisimeto\, Lara
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:669d46f458f1@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Cardenales de Lara
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:33ef17fef346@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Cardenales de Lara
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:a8513df156ff@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Águilas del Zulia
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:5d0b85dae75e@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Águilas del Zulia
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:b708029004d5@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Cardenales de Lara
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:c90c1b225115@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Navegantes del Magallanes
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:34ca67a8ee58@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Cardenales de Lara
+LOCATION:Estadio Antonio Herrera Gutiérrez\, Sector Juan de Villegas\, Barquisimeto\, Lara
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:30f168294942@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Navegantes del Magallanes
+LOCATION:Estadio José Bernardo Pérez\, Valencia\, Carabobo
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:b78463f9372a@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Navegantes del Magallanes
+LOCATION:Estadio José Bernardo Pérez\, Valencia\, Carabobo
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:cf76122f046d@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tigres de Aragua
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:04204fc13e0d@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tigres de Aragua
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5d1076f96d@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Cardenales de Lara
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:03b3d6602225@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tiburones de La Guaira
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:71d4b0e685a4@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Navegantes del Magallanes
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:f876a9c5fc13@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Águilas del Zulia
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:64877271278b@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Águilas del Zulia
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:6d11775d1af9@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Caribes de Anzoátegui
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:86da4502ccd1@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Caribes de Anzoátegui
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:008cead3cb26@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Caribes de Anzoátegui
+LOCATION:Estadio Alfonso Chico Carrasquel\, Puerto La Cruz\, Anzoátegui
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:abd0046e19d9@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Caribes de Anzoátegui
+LOCATION:Estadio Alfonso Chico Carrasquel\, Puerto La Cruz\, Anzoátegui
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:60836c98ed90@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Bravos de Margarita
+LOCATION:Estadio Nueva Esparta\, Porlamar\, Isla de Margarita\, Nueva Esparta
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:efc2824f9829@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Bravos de Margarita
+LOCATION:Estadio Nueva Esparta\, Porlamar\, Isla de Margarita\, Nueva Esparta
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd6f1c0ce41@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tiburones de La Guaira
+LOCATION:Estadio Universitario\, Ciudad Universitaria de Caracas (UCV)\, entre Autopista Valle-Coche y Autopista Francisco Fajardo\, Caracas
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0d6fc6c7d7@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Tiburones de La Guaira
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:6830e35e033f@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:[HORA PENDIENTE] Leones del Caracas vs. Navegantes del Magallanes
+LOCATION:Estadio Monumental Simón Bolívar\, Sector La Rinconada\, Parroquia Coche\, Municipio Libertador\, Caracas\, Distrito Capital
+DESCRIPTION:Temporada LVBP 2026/2027 - LOCAL\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:ede995ffdd64@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Navegantes del Magallanes
+LOCATION:Estadio José Bernardo Pérez\, Valencia\, Carabobo
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:e05bdfcd6204@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tigres de Aragua
+LOCATION:Estadio José Pérez Colmenares\, Calle Campo Elías\, Maracay\, Aragua
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:2f457ba29b32@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Cardenales de Lara
+LOCATION:Estadio Antonio Herrera Gutiérrez\, Sector Juan de Villegas\, Barquisimeto\, Lara
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:84b6ffad18e9@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Cardenales de Lara
+LOCATION:Estadio Antonio Herrera Gutiérrez\, Sector Juan de Villegas\, Barquisimeto\, Lara
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:d59a382df141@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tigres de Aragua
+LOCATION:Estadio José Pérez Colmenares\, Calle Campo Elías\, Maracay\, Aragua
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:255d8badae37@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Tiburones de La Guaira
+LOCATION:Estadio Universitario\, Ciudad Universitaria de Caracas (UCV)\, entre Autopista Valle-Coche y Autopista Francisco Fajardo\, Caracas
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:82f682fa3de3@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Águilas del Zulia
+LOCATION:Estadio Luis Aparicio El Grande\, Maracaibo\, Zulia
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+BEGIN:VEVENT
+UID:fe686e560844@calendario-republica-caraquista
+DTSTAMP:20260918T201704Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:[HORA PENDIENTE] Leones del Caracas @ Águilas del Zulia
+LOCATION:Estadio Luis Aparicio El Grande\, Maracaibo\, Zulia
+DESCRIPTION:Temporada LVBP 2026/2027 - VISITA\nTransmisión: Por confirmar
+END:VEVENT
+END:VCALENDAR

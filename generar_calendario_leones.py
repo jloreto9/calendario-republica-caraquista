@@ -31,67 +31,67 @@ import hashlib
 
 JUEGOS = [
     # ---------------- OCTUBRE 2026 ----------------
-    ("2026-10-13", "Águilas del Zulia",         "VISITA", None, None),
-    ("2026-10-14", "Águilas del Zulia",         "VISITA", None, None),
-    ("2026-10-15", "Bravos de Margarita",       "LOCAL",  None, None),
-    ("2026-10-16", "Bravos de Margarita",       "LOCAL",  None, None),
-    ("2026-10-17", "Caribes de Anzoátegui",     "VISITA", None, None),
-    ("2026-10-18", "Caribes de Anzoátegui",     "VISITA", None, None),
-    ("2026-10-20", "Tiburones de La Guaira",    "VISITA", None, None),
-    ("2026-10-23", "Tigres de Aragua",          "VISITA", None, None),
-    ("2026-10-24", "Navegantes del Magallanes", "LOCAL", None, None),
-    ("2026-10-25", "Navegantes del Magallanes", "LOCAL", None, None),
-    ("2026-10-26", "Tigres de Aragua",          "LOCAL", None, None),
+    ("2026-10-13", "Águilas del Zulia",         "VISITA", "19:00", None),
+    ("2026-10-14", "Águilas del Zulia",         "VISITA", "19:00", None),
+    ("2026-10-15", "Bravos de Margarita",       "LOCAL",  "19:00", None),
+    ("2026-10-16", "Bravos de Margarita",       "LOCAL",  "19:00", None),
+    ("2026-10-17", "Caribes de Anzoátegui",     "VISITA", "19:00", None),
+    ("2026-10-18", "Caribes de Anzoátegui",     "VISITA", "17:00", None),
+    ("2026-10-20", "Tiburones de La Guaira",    "VISITA", "19:00", None),
+    ("2026-10-23", "Tigres de Aragua",          "VISITA", "19:00", None),
+    ("2026-10-24", "Navegantes del Magallanes", "LOCAL",  "16:00", None),
+    ("2026-10-25", "Navegantes del Magallanes", "VISITA", "19:00", None),
+    ("2026-10-26", "Tigres de Aragua",          "LOCAL",  "19:00", None),
     # 2026-10-27: celda sin ícono en la imagen -> sin juego
-    ("2026-10-28", "Tiburones de La Guaira",    "LOCAL",  None, None),
-    ("2026-10-29", "Bravos de Margarita",       "VISITA", None, None),
-    ("2026-10-30", "Bravos de Margarita",       "VISITA", None, None),
-    ("2026-10-31", "Caribes de Anzoátegui",     "LOCAL",  None, None),
+    ("2026-10-28", "Tiburones de La Guaira",    "LOCAL",  "19:00", None),
+    ("2026-10-29", "Bravos de Margarita",       "VISITA", "19:00", None),
+    ("2026-10-30", "Bravos de Margarita",       "VISITA", "19:00", None),
+    ("2026-10-31", "Caribes de Anzoátegui",     "LOCAL",  "16:00", None),
 
     # ---------------- NOVIEMBRE 2026 ----------------
-    ("2026-11-01", "Caribes de Anzoátegui",     "LOCAL",  None, None),
-    ("2026-11-03", "Tiburones de La Guaira",    "LOCAL", None, None),
-    ("2026-11-04", "Tiburones de La Guaira",    "VISITA", None, None),
-    ("2026-11-05", "Bravos de Margarita",       "LOCAL",  None, None),
-    ("2026-11-06", "Bravos de Margarita",       "LOCAL",  None, None),
-    ("2026-11-07", "Tigres de Aragua",          "LOCAL", None, None),
-    ("2026-11-08", "Tigres de Aragua",          "VISITA", None, None),
-    ("2026-11-09", "Cardenales de Lara",        "VISITA", None, None),
-    ("2026-11-12", "Cardenales de Lara",        "LOCAL", None, None),
-    ("2026-11-13", "Cardenales de Lara",        "LOCAL", None, None),
-    ("2026-11-14", "Águilas del Zulia",         "LOCAL",  None, None),
-    ("2026-11-15", "Águilas del Zulia",         "LOCAL",  None, None),
-    ("2026-11-16", "Cardenales de Lara",        "LOCAL", None, None),
-    ("2026-11-17", "Navegantes del Magallanes", "LOCAL", None, None),
-    ("2026-11-20", "Cardenales de Lara",        "VISITA", None, None),
-    ("2026-11-21", "Navegantes del Magallanes", "VISITA", None, None),
-    ("2026-11-24", "Navegantes del Magallanes", "VISITA", None, None),
-    ("2026-11-26", "Tigres de Aragua",          "LOCAL", None, None),
-    ("2026-11-27", "Tigres de Aragua",          "LOCAL", None, None),
-    ("2026-11-28", "Cardenales de Lara",        "LOCAL", None, None),
-    ("2026-11-29", "Tiburones de La Guaira",    "LOCAL", None, None),
+    ("2026-11-01", "Caribes de Anzoátegui",     "LOCAL",  "16:00", None),
+    ("2026-11-03", "Tiburones de La Guaira",    "LOCAL",  "19:00", None),
+    ("2026-11-04", "Tiburones de La Guaira",    "VISITA", "19:00", None),
+    ("2026-11-05", "Bravos de Margarita",       "LOCAL",  "19:00", None),
+    ("2026-11-06", "Bravos de Margarita",       "LOCAL",  "19:00", None),
+    ("2026-11-07", "Tigres de Aragua",          "LOCAL",  "16:00", None),
+    ("2026-11-08", "Tigres de Aragua",          "VISITA", "17:00", None),
+    ("2026-11-09", "Cardenales de Lara",        "VISITA", "19:00", None),
+    ("2026-11-12", "Cardenales de Lara",        "LOCAL",  "19:00", None),
+    ("2026-11-13", "Cardenales de Lara",        "LOCAL",  "19:00", None),
+    ("2026-11-14", "Águilas del Zulia",         "LOCAL",  "16:00", None),
+    ("2026-11-15", "Águilas del Zulia",         "LOCAL",  "16:00", None),
+    ("2026-11-16", "Cardenales de Lara",        "LOCAL",  "19:00", None),
+    ("2026-11-17", "Navegantes del Magallanes", "LOCAL",  "19:00", None),
+    ("2026-11-20", "Cardenales de Lara",        "VISITA", "19:00", None),
+    ("2026-11-21", "Navegantes del Magallanes", "VISITA", "19:00", None),
+    ("2026-11-24", "Navegantes del Magallanes", "VISITA", "19:00", None),
+    ("2026-11-26", "Tigres de Aragua",          "LOCAL",  "19:00", None),
+    ("2026-11-27", "Tigres de Aragua",          "LOCAL",  "19:00", None),
+    ("2026-11-28", "Cardenales de Lara",        "LOCAL",  "16:00", None),
+    ("2026-11-29", "Tiburones de La Guaira",    "LOCAL",  "16:00", None),
 
     # ---------------- DICIEMBRE 2026 ----------------
-    ("2026-12-02", "Navegantes del Magallanes", "LOCAL", None, None),
-    ("2026-12-03", "Águilas del Zulia",         "LOCAL",  None, None),
-    ("2026-12-04", "Águilas del Zulia",         "LOCAL",  None, None),
-    ("2026-12-05", "Caribes de Anzoátegui",     "LOCAL",  None, None),
-    ("2026-12-06", "Caribes de Anzoátegui",     "LOCAL",  None, None),
-    ("2026-12-08", "Caribes de Anzoátegui",     "VISITA", None, None),
-    ("2026-12-09", "Caribes de Anzoátegui",     "VISITA", None, None),
-    ("2026-12-10", "Bravos de Margarita",       "VISITA", None, None),
-    ("2026-12-11", "Bravos de Margarita",       "VISITA", None, None),
-    ("2026-12-12", "Tiburones de La Guaira",    "VISITA", None, None),
-    ("2026-12-13", "Tiburones de La Guaira",    "LOCAL",  None, None),
-    ("2026-12-15", "Navegantes del Magallanes", "LOCAL", None, None),
-    ("2026-12-17", "Navegantes del Magallanes", "VISITA", None, None),
-    ("2026-12-18", "Tigres de Aragua",          "VISITA", None, None),
-    ("2026-12-19", "Cardenales de Lara",        "VISITA", None, None),
-    ("2026-12-20", "Cardenales de Lara",        "VISITA", None, None),
-    ("2026-12-21", "Tigres de Aragua",          "VISITA", None, None),
-    ("2026-12-22", "Tiburones de La Guaira",    "VISITA", None, None),
-    ("2026-12-26", "Águilas del Zulia",         "VISITA", None, None),
-    ("2026-12-27", "Águilas del Zulia",         "VISITA", None, None),
+    ("2026-12-02", "Navegantes del Magallanes", "LOCAL",  "19:00", None),
+    ("2026-12-03", "Águilas del Zulia",         "LOCAL",  "19:00", None),
+    ("2026-12-04", "Águilas del Zulia",         "LOCAL",  "19:00", None),
+    ("2026-12-05", "Caribes de Anzoátegui",     "LOCAL",  "16:00", None),
+    ("2026-12-06", "Caribes de Anzoátegui",     "LOCAL",  "16:00", None),
+    ("2026-12-08", "Caribes de Anzoátegui",     "VISITA", "19:00", None),
+    ("2026-12-09", "Caribes de Anzoátegui",     "VISITA", "19:00", None),
+    ("2026-12-10", "Bravos de Margarita",       "VISITA", "19:00", None),
+    ("2026-12-11", "Bravos de Margarita",       "VISITA", "19:00", None),
+    ("2026-12-12", "Tiburones de La Guaira",    "LOCAL",  "18:00", None),
+    ("2026-12-13", "Tiburones de La Guaira",    "VISITA", "13:00", None),
+    ("2026-12-15", "Navegantes del Magallanes", "LOCAL",  "19:00", None),
+    ("2026-12-17", "Navegantes del Magallanes", "VISITA", "19:00", None),
+    ("2026-12-18", "Tigres de Aragua",          "VISITA", "19:00", None),
+    ("2026-12-19", "Cardenales de Lara",        "VISITA", "18:00", None),
+    ("2026-12-20", "Cardenales de Lara",        "VISITA", "13:00", None),
+    ("2026-12-21", "Tigres de Aragua",          "VISITA", "19:00", None),
+    ("2026-12-22", "Tiburones de La Guaira",    "VISITA", "19:00", None),
+    ("2026-12-26", "Águilas del Zulia",         "VISITA", "20:00", None),
+    ("2026-12-27", "Águilas del Zulia",         "VISITA", "13:00", None),
 ]
 
 # =========================================================
@@ -204,6 +204,7 @@ def construir_evento(fecha_str, rival, condicion, hora_str, transmision, duracio
 
 
 def generar_ics(juegos, nombre_archivo="calendario_republica_caraquista.ics"):
+    import os
     encabezado = (
         "BEGIN:VCALENDAR\n"
         "VERSION:2.0\n"
@@ -222,8 +223,16 @@ def generar_ics(juegos, nombre_archivo="calendario_republica_caraquista.ics"):
 
     with open(nombre_archivo, "w", encoding="utf-8") as f:
         f.write(contenido)
-
     print(f"Archivo generado: {nombre_archivo}")
+
+    # También actualizar automáticamente en la carpeta calendario/
+    carpeta_sub = "calendario"
+    if os.path.exists(carpeta_sub):
+        ruta_sub = os.path.join(carpeta_sub, nombre_archivo)
+        with open(ruta_sub, "w", encoding="utf-8") as f:
+            f.write(contenido)
+        print(f"Archivo actualizado en: {ruta_sub}")
+
     print(f"Total de juegos exportados: {len(eventos)}")
 
 

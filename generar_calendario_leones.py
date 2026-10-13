@@ -34,7 +34,7 @@ JUEGOS = [
     ("2026-10-13", "Águilas del Zulia",         "VISITA", "19:00", "ByM Sport, BeisbolPlay"),
     ("2026-10-14", "Águilas del Zulia",         "VISITA", "19:00", "ByM Sport, BeisbolPlay"),
     ("2026-10-15", "Bravos de Margarita",       "LOCAL",  "19:00", "1Baseball, BeisbolPlay"),
-    ("2026-10-16", "Bravos de Margarita",       "LOCAL",  "19:00", "ByM Sport, BeisbolPlay"),
+    ("2026-10-16", "Bravos de Margarita",       "LOCAL",  "14:00", "ByM Sport, BeisbolPlay"),
     ("2026-10-17", "Caribes de Anzoátegui",     "VISITA", "18:00", "Televen, BeisbolPlay"),
     ("2026-10-18", "Caribes de Anzoátegui",     "VISITA", "16:00", "Televen, BeisbolPlay"),
     ("2026-10-20", "Tiburones de La Guaira",    "VISITA", "19:00", "IVC, BeisbolPlay"),
